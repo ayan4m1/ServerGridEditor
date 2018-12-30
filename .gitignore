@@ -3,6 +3,7 @@
 /*.vshost.exe.manifest
 /Src/.vs
 /Src/packages/*
+/Export
 *.pdb
 bin
 obj
